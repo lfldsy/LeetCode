@@ -1,4 +1,4 @@
--- 第 n 高的薪水
+-- 第n高的薪水
 --CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 --BEGIN
 --  RETURN (
